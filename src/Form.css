@@ -1,0 +1,15 @@
+label{
+    width: 200px;
+}
+input{
+    width: 50%;
+}
+p{
+    color: red;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
